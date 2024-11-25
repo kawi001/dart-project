@@ -1,5 +1,4 @@
 import 'dart:math';
-
 String generatePassword(int length) {
   const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
   Random random = Random();
