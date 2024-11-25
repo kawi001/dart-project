@@ -6,3 +6,4 @@ void main() {
     print("$number เป็นเลขคี่");
   }
 }
+ 
