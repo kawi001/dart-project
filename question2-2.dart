@@ -1,5 +1,4 @@
 void main() {
-
   String inputChar = 'a'; 
   if (inputChar.length == 1 && RegExp(r'^[a-zA-Z]$').hasMatch(inputChar)) {
    
